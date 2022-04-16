@@ -1,0 +1,11 @@
+*Search Algorithms in Artificial Intelligence
+
+*Based on the search problems we can classify the search algorithms into uninformed (Blind search) search and informed search (Heuristic search) algorithms.
+  
+  1. Uninformed/Blind Search:
+    - Breadth-first search
+    - Depth-first search
+    
+  2. Informed Search
+    - Greedy Search
+    - A* Search
