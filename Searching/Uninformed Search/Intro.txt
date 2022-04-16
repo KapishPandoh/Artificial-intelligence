@@ -1,0 +1,6 @@
+Uninformed/Blind Search:
+
+The uninformed search does not contain any domain knowledge such as closeness, the location of the goal. 
+It operates in a brute-force way as it only includes information about how to traverse the tree and how to identify leaf and goal nodes. 
+Uninformed search applies a way in which search tree is searched without any information about the search space like initial state operators and 
+test for the goal, so it is also called blind search.It examines each node of the tree until it achieves the goal node.
