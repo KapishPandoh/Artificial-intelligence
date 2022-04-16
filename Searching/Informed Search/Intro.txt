@@ -1,0 +1,10 @@
+Informed Search : 
+
+Informed search algorithms use domain knowledge. 
+In an informed search, problem information is available which can guide the search.
+Informed search strategies can find a solution more efficiently than an uninformed search strategy. 
+Informed search is also called a Heuristic search.
+
+A heuristic is a way which might not always be guaranteed for best solutions but guaranteed to find a good solution in reasonable time.
+
+Informed search can solve much complex problem which could not be solved in another way.
