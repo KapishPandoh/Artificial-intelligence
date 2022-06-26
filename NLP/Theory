@@ -1,0 +1,28 @@
+# Natural Language Processing (NLP)
+
+
+Natural language processing (NLP) refers to the branch of computer science concerned with giving 
+computers the ability to understand text and spoken words in much the same way human beings 
+can. NLP combines computational linguistics— rule-based modelling of human language—with 
+statistical, machine learning, and deep learning models.
+
+NLTK, or Natural Language Toolkit, is a Python package that can be used for NLP.
+
+
+## Stemming
+Stemming is the process of producing morphological variants of a root/base word. Stemming 
+programs are commonly referred to as stemming algorithms or stemmers. Stemming is an important 
+part of the pipelining process in Natural language processing. The input to the stemmer is tokenized 
+words. Some Stemming algorithms are: 
+
+            • **Porter’s Stemmer algorithm** :
+                It is based on the idea that the suffixes in the English language are made up of a 
+combination of smaller and simpler suffixes. This stemmer is known for its speed and simplicity. The 
+main applications of Porter Stemmer include data mining and Information retrieval. However, its 
+applications are only limited to English words. 
+
+
+            • **Snowball Stemmer algorithm** :
+                When compared to the Porter Stemmer, the Snowball Stemmer can map non-English 
+words too. Since it supports other languages, the Snowball Stemmers can be called a multi-lingual 
+stemmer. The Snowball stemmers are also imported from the NLTK package.
